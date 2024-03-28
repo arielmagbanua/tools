@@ -1,6 +1,6 @@
 summary: How to Write a Codelab
 id: how-to-write-a-codelab
-categories: Sample
+categories: About
 tags: medium
 status: Published 
 authors: Zarin

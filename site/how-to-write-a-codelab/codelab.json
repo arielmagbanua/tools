@@ -9,7 +9,7 @@
   "title": "How to Write a Codelab",
   "authors": "Zarin",
   "summary": "How to Write a Codelab",
-  "source": "how-to-write-a-codelab.md",
+  "source": "codelabs/how-to-write-a-codelab.md",
   "theme": "",
   "status": [
     "published"
