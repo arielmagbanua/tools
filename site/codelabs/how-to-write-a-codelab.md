@@ -60,7 +60,7 @@ Duration: 1
 [Youtube - Halsey Playlists](https://www.youtube.com/user/iamhalsey/playlists)
 
 ### Images
-![alt-text-here](assets/puppy.jpg)
+![alt-text-here](assets/puppy.jpeg)
 
 <!-- ------------------------ -->
 ## Other Stuff
